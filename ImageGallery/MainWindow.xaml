@@ -1,0 +1,29 @@
+﻿<Window x:Class="ImageGallery.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageGallery"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1440">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="220"/>
+        </Grid.ColumnDefinitions>
+
+        <Button Style="{StaticResource Left}" Click="OnClickLeft">
+            <Image Source="Images/left.png" Stretch="Fill" ></Image>
+        </Button>
+
+        <Image x:Name="imgLoaded" Source="{Binding ImgStr}" Grid.Column="1"></Image>
+        <Button x:Name="btnRight" Style="{StaticResource Right}" Click="OnClickRight">
+            <Image Source="Images/right.png" Stretch="Fill"></Image>
+        </Button>
+        <Button x:Name="btnLeft" Style="{StaticResource CircleButton}" Click="OnClickAdd">
+            <Image Source="Images/add.png"></Image>
+        </Button>
+        
+    </Grid>
+</Window>

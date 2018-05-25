@@ -1,0 +1,15 @@
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\bin\Release\ImageGallery.exe.config
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\bin\Release\ImageGallery.exe
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\bin\Release\ImageGallery.pdb
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\MainWindow.g.cs
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\App.g.cs
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery_MarkupCompile.cache
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery_MarkupCompile.lref
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\App.baml
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\MainWindow.baml
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.g.resources
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.Properties.Resources.resources
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.csproj.GenerateResource.cache
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.exe
+C:\Users\atana\source\repos\ImageGallery\ImageGallery\obj\Release\ImageGallery.pdb
